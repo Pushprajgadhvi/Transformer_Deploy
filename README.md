@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## 📖 Overview
 
 Transformer Visual Explorer is a **browser-based interactive learning platform** that demonstrates how the Transformer model works internally.
@@ -163,11 +162,6 @@ This project makes those concepts **visual, interactive, and intuitive**, helpin
 - Interactive parameter tuning  
 
 ---
-
-## 👨‍💻 Author
-
-**Pushpraj Gadhvi**
-
 GitHub:  
 https://github.com/Pushprajgadhvi/
 
