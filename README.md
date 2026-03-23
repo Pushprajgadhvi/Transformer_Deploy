@@ -12,7 +12,6 @@
 ## 📖 Overview
 
 Transformer Visual Explorer is a **browser-based interactive learning platform** that demonstrates how the Transformer model works internally.
-
 Instead of only presenting theory, this platform converts **mathematical operations into interactive visual simulations**, allowing users to explore attention mechanisms, positional encoding, and encoder–decoder interactions step-by-step.
 
 It helps learners build **deep intuition about attention**, which is the core mechanism behind modern Large Language Models.
